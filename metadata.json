@@ -71,6 +71,22 @@
       "userPermissions": []
     },
     {
+      "name": "jsonwebtoken",
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js",
+      "accessor": [
+        "jsonwebtoken"
+      ],
+      "url": "/libraries/jsonwebtoken@8.5.1.js",
+      "version": "8.5.1",
+      "defs": "{\"!name\":\"LIB/jsonwebtoken\",\"jsonwebtoken\":{\"decode\":{\"!type\":\"fn()\",\"prototype\":{}},\"verify\":{\"!type\":\"fn()\",\"prototype\":{}},\"sign\":{\"!type\":\"fn()\",\"prototype\":{}},\"JsonWebTokenError\":{\"!type\":\"fn()\",\"prototype\":{\"message\":{\"!type\":\"string\"},\"toString\":{\"!type\":\"fn()\"}}},\"NotBeforeError\":{\"!type\":\"fn()\",\"prototype\":{}},\"TokenExpiredError\":{\"!type\":\"fn()\",\"prototype\":{}}}}",
+      "id": "638f99625fdde84a128f8be2",
+      "createdAt": "2022-12-06T19:34:58Z",
+      "updatedAt": "2022-12-06T19:34:58Z",
+      "deleted": false,
+      "policies": [],
+      "userPermissions": []
+    },
+    {
       "name": "mixpanel-browser",
       "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js",
       "accessor": [
