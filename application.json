@@ -39,6 +39,9 @@
     },
     {
       "uidString": "fastCsv_/libraries/fast-csv@4.3.6.js"
+    },
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     }
   ],
   "evaluationVersion": 2,
