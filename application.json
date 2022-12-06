@@ -45,6 +45,9 @@
     },
     {
       "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
     }
   ],
   "evaluationVersion": 2,
