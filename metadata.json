@@ -279,6 +279,22 @@
       "deleted": false,
       "policies": [],
       "userPermissions": []
+    },
+    {
+      "name": "uzip-module",
+      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js",
+      "accessor": [
+        "uzip"
+      ],
+      "url": "https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js",
+      "version": "1.0.3",
+      "defs": "{\"!name\":\"LIB/uzip\",\"uzip\":{\"adler\":{\"!type\":\"fn()\",\"prototype\":{}},\"default\":{\"adler\":{\"!type\":\"fn()\",\"prototype\":{}},\"encode\":{\"!type\":\"fn()\",\"prototype\":{}},\"deflate\":{\"!type\":\"fn()\",\"prototype\":{}},\"deflateRaw\":{\"!type\":\"fn()\",\"prototype\":{}},\"inflate\":{\"!type\":\"fn()\",\"prototype\":{}},\"inflateRaw\":{\"!type\":\"fn()\",\"prototype\":{}},\"parse\":{\"!type\":\"fn()\",\"prototype\":{}}},\"deflate\":{\"!type\":\"fn()\",\"prototype\":{}},\"deflateRaw\":{\"!type\":\"fn()\",\"prototype\":{}},\"encode\":{\"!type\":\"fn()\",\"prototype\":{}},\"inflate\":{\"!type\":\"fn()\",\"prototype\":{}},\"inflateRaw\":{\"!type\":\"fn()\",\"prototype\":{}},\"parse\":{\"!type\":\"fn()\",\"prototype\":{}},\"__esModule\":{\"!type\":\"bool\"}}}",
+      "id": "6392f7ec12eab97fdaef7e6f",
+      "createdAt": "2022-12-09T08:55:08Z",
+      "updatedAt": "2022-12-09T08:55:08Z",
+      "deleted": false,
+      "policies": [],
+      "userPermissions": []
     }
   ],
   "fileFormatVersion": 2
