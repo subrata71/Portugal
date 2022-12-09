@@ -37,6 +37,9 @@
     },
     {
       "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
+    },
+    {
+      "uidString": "Sentry_https://browser.sentry-cdn.com/7.17.3/bundle.min.js"
     }
   ],
   "publishedCustomJSLibs": [
