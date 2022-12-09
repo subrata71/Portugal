@@ -28,6 +28,9 @@
     },
     {
       "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    },
+    {
+      "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js"
     }
   ],
   "publishedCustomJSLibs": [

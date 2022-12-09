@@ -135,6 +135,22 @@
       "userPermissions": []
     },
     {
+      "name": "ky",
+      "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js",
+      "accessor": [
+        "ky"
+      ],
+      "url": "https://www.unpkg.com/ky@0.25.0/umd.js",
+      "version": "0.25.0",
+      "defs": "{\"!name\":\"LIB/ky\",\"ky\":{\"!type\":\"fn()\",\"get\":{\"!type\":\"fn()\"},\"post\":{\"!type\":\"fn()\"},\"put\":{\"!type\":\"fn()\"},\"patch\":{\"!type\":\"fn()\"},\"head\":{\"!type\":\"fn()\"},\"delete\":{\"!type\":\"fn()\"},\"HTTPError\":{\"!type\":\"fn()\",\"prototype\":{\"message\":{\"!type\":\"string\"},\"toString\":{\"!type\":\"fn()\"}}},\"TimeoutError\":{\"!type\":\"fn()\",\"prototype\":{\"message\":{\"!type\":\"string\"},\"toString\":{\"!type\":\"fn()\"}}},\"create\":{\"!type\":\"fn()\"},\"extend\":{\"!type\":\"fn()\"},\"stop\":{\"!type\":\"?\"}}}",
+      "id": "6390dc5564871a7854608b98",
+      "createdAt": "2022-12-07T18:32:53Z",
+      "updatedAt": "2022-12-07T18:32:53Z",
+      "deleted": false,
+      "policies": [],
+      "userPermissions": []
+    },
+    {
       "name": "mixpanel-browser",
       "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js",
       "accessor": [
