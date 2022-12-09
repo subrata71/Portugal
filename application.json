@@ -34,6 +34,9 @@
     },
     {
       "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    },
+    {
+      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
     }
   ],
   "publishedCustomJSLibs": [
