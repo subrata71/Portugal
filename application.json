@@ -31,6 +31,9 @@
     },
     {
       "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js"
+    },
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
     }
   ],
   "publishedCustomJSLibs": [
