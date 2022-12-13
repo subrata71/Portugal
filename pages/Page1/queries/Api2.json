@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Api1",
+    "name": "Api2",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -21,13 +21,26 @@
       "paginationType": "NONE",
       "headers": [
         {
-          "key": "content-type",
-          "value": "application/json"
+          "key": "",
+          "value": ""
+        },
+        {
+          "key": "",
+          "value": ""
         }
       ],
       "encodeParamsToggle": true,
-      "queryParameters": [],
-      "body": "{\n\t\"name\": \"Ritesh\"\n}",
+      "queryParameters": [
+        {
+          "key": "",
+          "value": ""
+        },
+        {
+          "key": "",
+          "value": ""
+        }
+      ],
+      "body": "",
       "bodyFormData": [],
       "httpMethod": "GET",
       "selfReferencingDataPaths": [],
@@ -37,11 +50,10 @@
         }
       ],
       "formData": {
-        "apiContentType": "application/json"
+        "apiContentType": "none"
       }
     },
     "executeOnLoad": false,
-    "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
     "messages": [],
@@ -51,7 +63,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Api1",
+  "id": "Page1_Api2",
   "deleted": false,
-  "gitSyncId": "638ee25fcef16c414d8a9779_638ee27ecef16c414d8a9783"
+  "gitSyncId": "638f98425fdde84a128f8bd5_6390dc8764871a7854608b99"
 }
