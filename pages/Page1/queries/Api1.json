@@ -21,13 +21,26 @@
       "paginationType": "NONE",
       "headers": [
         {
-          "key": "content-type",
-          "value": "application/json"
+          "key": "",
+          "value": ""
+        },
+        {
+          "key": "",
+          "value": ""
         }
       ],
       "encodeParamsToggle": true,
-      "queryParameters": [],
-      "body": "{\n\t\"name\": \"Ritesh\"\n}",
+      "queryParameters": [
+        {
+          "key": "",
+          "value": ""
+        },
+        {
+          "key": "",
+          "value": ""
+        }
+      ],
+      "body": "",
       "bodyFormData": [],
       "httpMethod": "GET",
       "selfReferencingDataPaths": [],
@@ -37,11 +50,10 @@
         }
       ],
       "formData": {
-        "apiContentType": "application/json"
+        "apiContentType": "none"
       }
     },
     "executeOnLoad": false,
-    "dynamicBindingPathList": [],
     "isValid": true,
     "invalids": [],
     "messages": [],
