@@ -10,67 +10,6 @@
   "unreadCommentThreads": 0,
   "color": "#F5D1D1",
   "icon": "flag",
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "supabase_https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.1.0/dist/umd/supabase.min.js"
-    },
-    {
-      "uidString": "AnalyticsNext___SEGMENT_INSPECTOR___webpackChunk_segment_analytics_next_https://cdn.jsdelivr.net/npm/@segment/analytics-next@1.46.1/dist/umd/index.js"
-    },
-    {
-      "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js"
-    },
-    {
-      "uidString": "fastCsv_/libraries/fast-csv@4.3.6.js"
-    },
-    {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
-    },
-    {
-      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
-    },
-    {
-      "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js"
-    },
-    {
-      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
-    },
-    {
-      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
-    },
-    {
-      "uidString": "Sentry_https://browser.sentry-cdn.com/7.17.3/bundle.min.js"
-    }
-  ],
-  "publishedCustomJSLibs": [
-    {
-      "uidString": "supabase_https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.1.0/dist/umd/supabase.min.js"
-    },
-    {
-      "uidString": "AnalyticsNext___SEGMENT_INSPECTOR___webpackChunk_segment_analytics_next_https://cdn.jsdelivr.net/npm/@segment/analytics-next@1.46.1/dist/umd/index.js"
-    },
-    {
-      "uidString": "mixpanel_onload_https://cdn.jsdelivr.net/npm/mixpanel-browser@2.45.0/dist/mixpanel.umd.js"
-    },
-    {
-      "uidString": "fastCsv_/libraries/fast-csv@4.3.6.js"
-    },
-    {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
-    },
-    {
-      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
-    },
-    {
-      "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js"
-    },
-    {
-      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
-    },
-    {
-      "uidString": "uzip_https://cdn.jsdelivr.net/npm/uzip-module@1.0.3/dist/uzip.js"
-    }
-  ],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
