@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Api1",
+    "name": "Api3",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -20,7 +20,7 @@
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
-      "path": "/pos",
+      "path": "/post",
       "headers": [
         {
           "key": "content-type",
@@ -29,9 +29,9 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{\n\t\"name\": \"Ritesh\"\n}",
+      "body": "{\n\t\"asdf\": ''",
       "bodyFormData": [],
-      "httpMethod": "GET",
+      "httpMethod": "POST",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -53,7 +53,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_Api1",
+  "id": "Page1_Api3",
   "deleted": false,
-  "gitSyncId": "638ee25fcef16c414d8a9779_638ee27ecef16c414d8a9783"
+  "gitSyncId": "638f98425fdde84a128f8bd5_63986d73e5695a5594913032"
 }
