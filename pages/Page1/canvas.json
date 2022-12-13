@@ -194,7 +194,7 @@
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "Button2",
-              "onClick": "{{Api3.run(() => showAlert('Api3 successfully executed','success'), () => showAlert('Something is wrong','error'))}}",
+              "onClick": "{{Api3.run(() => showAlert('Api3 successfully executed','success'), () => {})}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
