@@ -2,5 +2,6 @@
   "name": "Default",
   "displayName": "Modern",
   "isSystemTheme": true,
-  "deleted": false
+  "deleted": false,
+  "deprecated": true
 }
