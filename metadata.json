@@ -1,5 +1,6 @@
 {
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 6,
-  "fileFormatVersion": 2
+  "fileFormatVersion": 2,
+  "currentEnv": "DEV"
 }
